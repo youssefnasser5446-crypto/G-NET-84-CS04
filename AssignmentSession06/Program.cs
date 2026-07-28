@@ -100,6 +100,19 @@
             //Console.WriteLine(genre.ToString()); // Fiction as string
             #endregion
 
+            #region Question10
+
+           // /*
+           //  Given string genreText = "Science";,
+           // convert it into a Genre value using Enum.Parse() and print the result.
+           //  */
+           // string genreText = "Science";
+           // Genre G_Text;
+           // G_Text = Enum.Parse<Genre>(genreText);
+           ////  G_Text => must store data exist in enum
+           // Console.WriteLine(G_Text);
+
+            #endregion
         }
 
         #region Qestion01
