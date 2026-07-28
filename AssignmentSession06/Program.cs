@@ -44,6 +44,17 @@
 
             #endregion
 
+            #region Question05
+
+            ///*
+            // Add a public string Title; field to Book. Set it and print it from Main. 
+            // */
+
+            //Bk.Title = "Clean Code";
+            //Console.WriteLine(Bk.Title);
+
+            #endregion
+
         }
 
         #region Qestion01
