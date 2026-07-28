@@ -90,6 +90,16 @@
 
             #endregion
 
+            #region Question08
+
+            ///*
+            // Given Genre genre = Genre.Fiction;, 
+            //convert it into a string using ToString() and print it. 
+            // */
+            //Genre genre = Genre.Fiction;
+            //Console.WriteLine(genre.ToString()); // Fiction as string
+            #endregion
+
         }
 
         #region Qestion01
