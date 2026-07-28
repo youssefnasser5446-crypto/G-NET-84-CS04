@@ -17,11 +17,21 @@
 
             #region Question02
 
-        //    /*
-        // Q11. Write a method PrintBookTitle(string title) that prints 
-        //"Book title: " + title. Call it with "Clean Code".
-        // */
-        //    PrintBookTitle("Clean Code");
+            //    /*
+            // Q11. Write a method PrintBookTitle(string title) that prints 
+            //"Book title: " + title. Call it with "Clean Code".
+            // */
+            //    PrintBookTitle("Clean Code");
+            #endregion
+
+            #region Question03
+
+            ///*
+            // Add a private string password = "secret"; field to a Book class.
+            //Try to print it from Main (outside the class). What happens, and why? 
+            // */
+            //Book Bk = new Book();
+            //Bk.password = "yousef"; // # compile error=> can not becouse private access only inside class 
             #endregion
 
         }
@@ -43,6 +53,8 @@
         //}
 
         #endregion
+
+
 
     }
 }
