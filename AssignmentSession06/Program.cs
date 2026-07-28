@@ -67,6 +67,19 @@
 
             #endregion
 
+            #region Question07
+
+            ///*
+            // * Using the Genre enum above, print the underlying int value of Genre.Fiction,
+            // * Genre.NonFiction, and Genre.Science by casting each to int.
+            // */
+
+            //Console.WriteLine((int)Genre.Science);
+            //Console.WriteLine((int)Genre.Fiction);
+            //Console.WriteLine((int)Genre.NonFiction);
+
+            #endregion
+
         }
 
         #region Qestion01
