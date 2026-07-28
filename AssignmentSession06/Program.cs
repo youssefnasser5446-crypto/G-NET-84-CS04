@@ -102,15 +102,27 @@
 
             #region Question10
 
-           // /*
-           //  Given string genreText = "Science";,
-           // convert it into a Genre value using Enum.Parse() and print the result.
-           //  */
-           // string genreText = "Science";
-           // Genre G_Text;
-           // G_Text = Enum.Parse<Genre>(genreText);
-           ////  G_Text => must store data exist in enum
-           // Console.WriteLine(G_Text);
+            // /*
+            //  Given string genreText = "Science";,
+            // convert it into a Genre value using Enum.Parse() and print the result.
+            //  */
+            // string genreText = "Science";
+            // Genre G_Text;
+            // G_Text = Enum.Parse<Genre>(genreText);
+            ////  G_Text => must store data exist in enum
+            // Console.WriteLine(G_Text);
+
+            #endregion
+
+            #region Question11
+
+            ///*
+            // Given string genreText = "Mystery"; (not a valid Genre value),
+            //use Enum.TryParse() to attempt the conversion. Print "Unknown genre" if it fails.
+            // */
+            //string genreText = "Mystery";
+            //bool isParsed = Enum.TryParse<Genre>(genreText, out Genre G_Text);
+            //Console.WriteLine(isParsed? G_Text : "Unknown genre");
 
             #endregion
         }
