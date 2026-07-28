@@ -30,8 +30,18 @@
             // Add a private string password = "secret"; field to a Book class.
             //Try to print it from Main (outside the class). What happens, and why? 
             // */
-            //Book Bk = new Book();
+            Book Bk = new Book();
             //Bk.password = "yousef"; // # compile error=> can not becouse private access only inside class 
+            #endregion
+
+            #region Question04
+
+            ///*
+            //  Add an internal int copiesInStock = 5;
+            //field to Book. Print it from Main. Does it compile? Why?
+            // */
+            //Bk.copiesInStock = 7; // yes => becouse internal accessed in same project 
+
             #endregion
 
         }
