@@ -15,7 +15,14 @@
 
             #endregion
 
+            #region Question02
 
+        //    /*
+        // Q11. Write a method PrintBookTitle(string title) that prints 
+        //"Book title: " + title. Call it with "Clean Code".
+        // */
+        //    PrintBookTitle("Clean Code");
+            #endregion
 
         }
 
@@ -24,6 +31,15 @@
         //static void PrintWelcomeMessage()
         //{
         //    Console.WriteLine("Welcome to the Library!");
+        //}
+
+        #endregion
+
+        #region Question02
+
+        //static void PrintBookTitle(string title)
+        //{
+        //    Console.WriteLine("Book title: " + title);
         //}
 
         #endregion
